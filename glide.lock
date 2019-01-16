@@ -1,0 +1,12 @@
+hash: 1255118b5347b3997fb9201449453f1cd364ce3fe9d8fc71e302f38c2619d4f6
+updated: 2019-01-16T11:31:46.896198+08:00
+imports:
+- name: github.com/gin-gonic/gin
+  version: b869fe1415e4b9eb52f247441830d502aece2d4d
+- name: github.com/mattn/go-isatty
+  version: 6ca4dbf54d38eea1a992b3c722a76a5d1c4cb25c
+- name: golang.org/x/sys
+  version: bd9dbc187b6e1dacfdd2722a87e83093c2d7bd6e
+  subpackages:
+  - unix
+testImports: []

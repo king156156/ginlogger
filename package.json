@@ -1,0 +1,8 @@
+{
+  "name": "ginlogger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:king156156/ginlogger.git",
+  "author": "roger <king156156@gmail.com>",
+  "license": "MIT"
+}
